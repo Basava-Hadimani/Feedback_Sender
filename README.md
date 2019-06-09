@@ -7,7 +7,7 @@ Deplyoment link: https://emailyfeedbacksurvey.herokuapp.com
 Step 1:
 Run below command to clone repo
 
-git clone https://github.com/Basava-Hadimani/canvas-jsplumb-react.git
+git clone https://github.com/Basava-Hadimani/Feedback_Sender.git
 
 cd Feedback_Sender
 
